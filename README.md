@@ -7,6 +7,7 @@ For a ful tutorial on Celestial Navigation see this[MUDSPIKE.COM LINK] article o
 # Requirements: 
 
 Python 3 - https://www.python.org/downloads/
+
 Stellarium 0.18.2 - https://stellarium.org/
 
 Note: This may work with different versions
