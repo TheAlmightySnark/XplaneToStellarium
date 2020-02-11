@@ -27,11 +27,11 @@ class StellariumToXplane:
         print('leave IP and PORT empty if these are fine')
 
         print('IP:')
-        if input(self):
+        if input():
             self._IP = input()
 
         print('PORT:')
-        if input(self):
+        if input():
             self._port = int(input())
 
         print('starting with %s and %s'%(self._IP, self._port))
